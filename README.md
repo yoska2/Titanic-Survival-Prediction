@@ -49,6 +49,7 @@ Titanic-Survival-Prediction/
 │   └── titanic_test.csv
 ├── docs/
 │   ├── Project_Summary.pdf
+│   ├── Project_Summary_HE.pdf
 │   └── Technical_Documentation.pdf
 ├── README.md
 └── .gitignore
@@ -77,6 +78,7 @@ These scores use different positive classes and evaluation stages, so they shoul
 ## Documentation
 
 - [Project Summary](docs/Project_Summary.pdf)
+- [Project Summary (Hebrew)](docs/Project_Summary_HE.pdf)
 - [Technical Documentation](docs/Technical_Documentation.pdf)
 
 ## Project Explanation Video
